@@ -1,6 +1,6 @@
-https://www.mediafire.com/file/443c74rsp1i38ci/Mapper.exe/file
-https://www.mediafire.com/file/hj313yj7c7y52vk/mydriver1.sys/file
-https://www.mediafire.com/file/jnl6t7kcuagwi66/mydriver.sys/file
-https://www.mediafire.com/file/t19tgy64nlzqpws/systeminfo.txt/file
-https://www.mediafire.com/file/8a8e6h1dvjoyyll/data_vulnerable_x.txt/file
-https://www.mediafire.com/file/eq2ruyakk3zlh2l/system_driver_vul.txt/file
+https://cdn.discordapp.com/attachments/1091691824550248540/1222403519320035378/Mapper.exe?ex=6631c67e&is=661f517e&hm=7c65ddd6a750a78b6daa448df4877cad992e5ca2bc969de666bb41fb27de355a&
+https://cdn.discordapp.com/attachments/1091691824550248540/1222403487082483802/mydriver1.sys?ex=6631c676&is=661f5176&hm=182568fa4977d4215504ad588a4ea8f2f76211df1fcc9bd58a78bd13ee61fe4c&
+https://cdn.discordapp.com/attachments/1091691824550248540/1231737993602011267/mydriver.sys?ex=66380c66&is=66259766&hm=d338d41f080042ff54d19cc40677ebd31afeb2385698c6d8047e1d665c081d39&
+https://cdn.discordapp.com/attachments/1091691824550248540/1227203731909640192/systeminfo.txt?ex=6630c80a&is=661e530a&hm=d036631851e6ca0357fcc01bd6e75a10229d72344d013db07a0dd8fc6a4c8f6f&
+https://cdn.discordapp.com/attachments/1091691824550248540/1227203732245319690/data_vulnerable_x.txt?ex=6630c80a&is=661e530a&hm=ffefc9e50ff32d6bfe4b89080978e7e3b71023bf281e2282f43267353033e96c&
+https://cdn.discordapp.com/attachments/1091691824550248540/1231738129749381180/system_driver_vul.txt?ex=662add86&is=66298c06&hm=e27e924be6ab653053ce7021b5cc57aa42c1d318331af6c542daa9a33634d37b&
