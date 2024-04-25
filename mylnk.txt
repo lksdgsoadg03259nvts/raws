@@ -3,4 +3,4 @@ https://www.mediafire.com/file/hj313yj7c7y52vk/mydriver1.sys/file
 https://www.mediafire.com/file/jnl6t7kcuagwi66/mydriver.sys/file
 https://www.mediafire.com/file/t19tgy64nlzqpws/systeminfo.txt/file
 https://www.mediafire.com/file/8a8e6h1dvjoyyll/data_vulnerable_x.txt/file
-https://cdn.discordapp.com/attachments/1091691824550248540/1231738129749381180/system_driver_vul.txt?ex=662add86&is=66298c06&hm=e27e924be6ab653053ce7021b5cc57aa42c1d318331af6c542daa9a33634d37b&
+https://www.mediafire.com/file/eq2ruyakk3zlh2l/system_driver_vul.txt/file
