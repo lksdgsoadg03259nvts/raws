@@ -1,6 +1,6 @@
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139996146110484/Mapper.exe?ex=66bbb1ae&is=66ba602e&hm=b82ba9a9d0a0f946c09e302e26e134252e6504519dbbec12b1a2fd1df25dd978&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139996750217268/mydriver1.sys?ex=66bbb1ae&is=66ba602e&hm=b181da92e770ea840bb5f88f9f1b9eaa8f7d475c95b207e6376aa4c176dd1b57&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139996439973988/mydriver.sys?ex=66bbb1ae&is=66ba602e&hm=39938d1a00fccf8a715017fbb50cc2cf77786ef9e35c71cf0512f239969f411c&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139329109295335/systeminfo.txt?ex=66bbb10f&is=66ba5f8f&hm=7f192ab1363372b0e400c8a1ae0fa690e52d9693fd862132fa6fad8168da95c6&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139995827470537/data_vulnerable_x.txt?ex=66bbb1ae&is=66ba602e&hm=358460d2e254ffaf07922ce2ad927a28b1e1d5aacb8cc464a6fd6b1d960d8e7b&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139997068857385/system_driver_vul.txt?ex=66bbb1ae&is=66ba602e&hm=d3b53beea038bc87b3d60ba925854f4777cbda80df025b9677b6ca0ab09014a5&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139996146110484/Mapper.exe?ex=66bc5a6e&is=66bb08ee&hm=917c258370d47742da8b09376fa8ed07765358f6a4a34406394b0290cf7a0ce4&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139996750217268/mydriver1.sys?ex=66bc5a6e&is=66bb08ee&hm=6601ebfedaa8f9c7283de4193a71d692aa9572ddbd2141c79aa00db141a600c4&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139996439973988/mydriver.sys?ex=66bc5a6e&is=66bb08ee&hm=f531d78b220f75bc4632c81d98263beebd84151d286a8d7edc554b5662ee6ce6&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139329109295335/systeminfo.txt?ex=66bc59cf&is=66bb084f&hm=4848caa6b98f4b914c53bc7703055922c0a4222ed7a9f0d27039622ae0a2eecc&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139995827470537/data_vulnerable_x.txt?ex=66bc5a6e&is=66bb08ee&hm=b101adacca3f8c30dd0b69d603b44a860f64dd53769ebb3c1978811c3bb4b29e&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139997068857385/system_driver_vul.txt?ex=66bc5a6e&is=66bb08ee&hm=87577ca46586bf5c3df5fb54a3042deefefe907d50bf9dee7873fbe081e4bdcf&
