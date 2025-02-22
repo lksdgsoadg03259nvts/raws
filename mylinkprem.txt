@@ -1,6 +1,6 @@
 https://cdn.discordapp.com/attachments/1198653708511215736/1330147503651422281/AGFMapper.exe?ex=67ba67a5&is=67b91625&hm=15962f1d804462024d1c786b692508737bc14e056c2e5014700d937eceb1695e&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139996750217268/mydriver1.sys?ex=67ba232e&is=67b8d1ae&hm=d1a3952b24322ff963f6ab2ebe1fac071db562900ddfe5fe334e65515f3748a3&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139996439973988/mydriver.sys?ex=67ba232e&is=67b8d1ae&hm=b1a79eb2c62cbbf9a4e8480ba2d51a4510e6293ed544f52318cb416172d47bbf&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139329109295335/systeminfo.txt?ex=67ba228f&is=67b8d10f&hm=36b50ab0511c192dfec976373ad50be81f5a4ecff83feb1dc1cfe2b58bbcb2ef&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139995827470537/data_vulnerable_x.txt?ex=67ba232e&is=67b8d1ae&hm=8d522a8de40dad59e6fb7f953275c7def860ecdd95b64dcbbc3d80428269ba2e&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139997068857385/system_driver_vul.txt?ex=67ba232e&is=67b8d1ae&hm=be300056430ced8c7cb873a96f32fc8325b5df2b8f7f823bd2f34aca884baa3f&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139996750217268/mydriver1.sys?ex=67bacbee&is=67b97a6e&hm=43c2b89d26c6285cb0811f9e11ff9f9f65dd3d89d12ab9a21b6158d6296c3201&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139996439973988/mydriver.sys?ex=67bacbee&is=67b97a6e&hm=68d84a3344855bea8f9016ae43abe1465134e8b6e07f153969c6add343f637d2&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139329109295335/systeminfo.txt?ex=67bacb4f&is=67b979cf&hm=eb8c0adb2a8bf2027b391c9146b47cc95a99d4a2ef70b5a39e6803ea6a13f898&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139995827470537/data_vulnerable_x.txt?ex=67bacbee&is=67b97a6e&hm=f97372dbee044e8b4537d9d0d83badde521b3dfacdd7916b45c8f832d50169ba&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139997068857385/system_driver_vul.txt?ex=67bacbee&is=67b97a6e&hm=fce8d38caba6dece423202ef4d1c05f1091609ae4abb009ab94fe570d09140f4&
