@@ -1,5 +1,6 @@
 https://cdn.discordapp.com/attachments/1198653708511215736/1258139996146110484/Mapper.exe?ex=67ddbbae&is=67dc6a2e&hm=f9d903812532b948d3aa1ec4f5ff4e7bf9c890cc368a756ad547c8ca4b3b6d25&
 https://cdn.discordapp.com/attachments/1198653708511215736/1258139996439973988/mydriver.sys?ex=67ddbbae&is=67dc6a2e&hm=91a2c9748bab010c53cb0a00a4ab2add40a18cbcb67f342c7d9903133b1be241&
+https://cdn.discordapp.com/attachments/1198653708511215736/1352527493881532436/mydriver1.sys?ex=67de56e3&is=67dd0563&hm=f48f36169f53e1d0ff2978af3782f732b631283d54d97e268a1711dece1f85b1&
 https://cdn.discordapp.com/attachments/1198653708511215736/1258139329109295335/systeminfo.txt?ex=67ddbb0f&is=67dc698f&hm=e307e64255e4595049c5ba213cc607627b38f8624659947365bedc89c81aa5d3&
 https://cdn.discordapp.com/attachments/1198653708511215736/1258139995827470537/data_vulnerable_x.txt?ex=67ddbbae&is=67dc6a2e&hm=f71ff6c1f84170f300c4ef24770aee8a00acc9d811b86debbfbd377e2cddb336&
 https://cdn.discordapp.com/attachments/1198653708511215736/1258139997068857385/system_driver_vul.txt?ex=67ddbbae&is=67dc6a2e&hm=fae7f2e20030b867568097c8233ac21a399ac3a1f57f976ead3f1497d9f36f34&
