@@ -1,6 +1,6 @@
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139996146110484/Mapper.exe?ex=68ab65ae&is=68aa142e&hm=68f4ae94420c478efbb379b45ba6c9c29106f52fd36e208ebee7b10e5f9cf0a2&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139996439973988/mydriver.sys?ex=68ab65ae&is=68aa142e&hm=fb1bd7c72c65280f032fd0bd5b6d700ae5fe8579a71daa5233eb49b1e0f4fa98&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139996146110484/Mapper.exe?ex=68ac0e6e&is=68aabcee&hm=63b0cd435ba2f84e27c9d27ec58743c3095366cd126b046ee1b27dd5a055247e&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139996439973988/mydriver.sys?ex=68ac0e6e&is=68aabcee&hm=758d6c05d1d90e7d59d53786a484ea17321f77097ee0ab976a6a5ffa8fa22e2c&
 https://cdn.discordapp.com/attachments/1198653708511215736/1352527493881532436/mydriver1.sys?ex=68ac00e3&is=68aaaf63&hm=259067f3d48e14b073aae272a6293eb9de403087181dbe55353abefa3ca79643&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139329109295335/systeminfo.txt?ex=68ab650f&is=68aa138f&hm=e50504ffc515b8097415ae60772105d31bd50bc36f21cfe431b67d1f090e8a3b&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139995827470537/data_vulnerable_x.txt?ex=68ab65ae&is=68aa142e&hm=e70724628bd5ce3713b5cc333fc4bdc15470e9a53a742fd84a1c34e556722ab0&
-https://cdn.discordapp.com/attachments/1198653708511215736/1258139997068857385/system_driver_vul.txt?ex=68ab65ae&is=68aa142e&hm=319e601b8ffbe4ee92904fc25132cbeef1ae93238b01d0e10deecb3384d4df9a&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139329109295335/systeminfo.txt?ex=68ac0dcf&is=68aabc4f&hm=746b6c32b5c2273d1766b5ebffcfcdbdef636dfa74a655325f08eb8b86ada0a7&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139995827470537/data_vulnerable_x.txt?ex=68ac0e6e&is=68aabcee&hm=54c3ebbba511e03a5abb7fec9fb77c8655b540c89f05b3e27e384e08680d2d8e&
+https://cdn.discordapp.com/attachments/1198653708511215736/1258139997068857385/system_driver_vul.txt?ex=68ac0e6e&is=68aabcee&hm=f7bcb88b01865833f73ff1da0ed08e7d2aea9c6cab96e39456d2d61df51cda76&
